@@ -1,10 +1,9 @@
 # Markdown Cheatsheet
 
-Markdown is a lightweight markup language that makes it easy to create formatted text using a plain-text editor.
-It's widely used for documentation, README files, and even blogs. If you're looking to learn Markdown or brush up on its 
-features, you've come to the right place!  
+##### Markdown is a lightweight markup language that makes it easy to create formatted text using a plain-text editor.
+##### It's widely used for documentation, README files.
 ---
-## What's Inside?  
+## What this repository contains?  
 This repository contains a **Markdown Cheatsheet** compiled by me. It covers various features of Markdown, including:  
 - Headings  
 - Lists (Ordered and Unordered)  
@@ -13,10 +12,7 @@ This repository contains a **Markdown Cheatsheet** compiled by me. It covers var
 - And much more!  
 ---
 ### Why This Cheatsheet?
-I’ve designed this cheatsheet to be concise, beginner-friendly, and easy to reference.
----
-## Download and Study  
-📥 **[Download the Cheatsheet](./MarkdownCheatsheet.md)**  
+##### I made this initially for myself but i found myself referencing it for revision so decided to upload it so others can use it too.
 ---
 ## References  
 This cheatsheet was compiled using insights and examples from the following sources:  
@@ -26,5 +22,3 @@ This cheatsheet was compiled using insights and examples from the following sour
 A big thanks to these resources for their inspiration and guidance!  
 
 ---  
-
-**- Priyesh Mishra**
